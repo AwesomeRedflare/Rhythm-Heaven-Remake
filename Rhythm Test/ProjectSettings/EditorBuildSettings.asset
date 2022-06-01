@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameSelectScreen.unity
+    guid: a5e7e80730a47d24492a0f0da815c110
+  - enabled: 1
+    path: Assets/Scenes/IntroScreen.unity
+    guid: 4f6917cc2f2119b45b58c4a0dd69c331
+  - enabled: 1
+    path: Assets/Scenes/SkaterNEW.unity
+    guid: 3051cdc577073d64b95a4f4cdc30bb10
+  - enabled: 1
+    path: Assets/Scenes/IntroKarateMan.unity
+    guid: fee8b508477bf4e40ba257561732ea42
+  - enabled: 1
+    path: Assets/Scenes/KarateMan.unity
+    guid: c5e8ce3aa9949ab4195c99e1e9a51add
+  - enabled: 1
+    path: Assets/Scenes/ResultScreen.unity
+    guid: fd8c5d038e9c097418a5c58eb76c58fa
+  m_configObjects: {}
